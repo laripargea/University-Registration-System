@@ -1,0 +1,19 @@
+[ {
+  "firstName" : "Larisa",
+  "lastName" : "Pargea",
+  "studentId" : 1,
+  "totalCredits" : 30,
+  "enrolledCourses" : [ 1 ]
+}, {
+  "firstName" : "Maria",
+  "lastName" : "Papuc",
+  "studentId" : 2,
+  "totalCredits" : 25,
+  "enrolledCourses" : [ 2 ]
+}, {
+  "firstName" : "Mihai",
+  "lastName" : "Oancea",
+  "studentId" : 3,
+  "totalCredits" : 10,
+  "enrolledCourses" : [ 2 ]
+} ]

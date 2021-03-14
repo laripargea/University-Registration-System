@@ -1,0 +1,13 @@
+[{
+ "name": "BD",
+  "maxEnrollment": 1,
+  "credits": 5,
+  "courseId": 1
+},
+  {
+    "name": "SGBD",
+    "maxEnrollment": 20,
+    "credits": 5,
+    "courseId": 2
+  }
+]
